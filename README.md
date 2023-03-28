@@ -1,7 +1,9 @@
 ### Data Scince Life Cycle
-![[Pasted image 20230328160446.png]]
 
-### High Level Problem Statement
+
+
+
+### High Level Problem Statement!
 
 To predict the insurance expenses of a person in the US depending on basic information such as gender, age, bmi etc.
 
