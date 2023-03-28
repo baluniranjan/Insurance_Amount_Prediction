@@ -1,5 +1,4 @@
-### Data Scince Life Cycle
-
+# Insurance Amount Predcitor using R
 ![pic1](./pic1.png)
 
 
