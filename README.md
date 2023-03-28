@@ -1,6 +1,6 @@
 ### Data Scince Life Cycle
 
-
+![pic1](./pic1.png)
 
 
 ### High Level Problem Statement!
@@ -16,4 +16,5 @@ Numerical Features :  `age` , `bmi` , `children` ,`expenses`
 Categorical Features : `sex`, `smoker` ,`region` 
 
 ### Model UI Prediction Sample
-![[Pasted image 20230328160541.png]]
+
+![pic2](./pic2.png)
